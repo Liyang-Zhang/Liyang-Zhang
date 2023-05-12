@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liyang-Zhang
 - 👀 I’m interested in bioinformatics, specifically NGS data analysis.
-- 🌱 I’m currently exploring specific cancer and reproduction fields like ctDNA, MRD, NIPT, PGT...
+- 🌱 I’m currently working on specific cancer and reproduction fields like ctDNA, MRD, NIPT, PGT...
 - 💞️ I’m looking to collaborate on anyone who shares similiar interested fields.
 - 📫 My personal email address: zly18810602991@163.com
 
